@@ -1,1 +1,1 @@
-Test data sets for the enCount project.
+Test data sets for the enCount project. Stored using Git LFS.
